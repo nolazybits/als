@@ -1,0 +1,8 @@
+.docker/.env
+.idea/
+
+output/
+src/resources/
+
+gh-pages
+gh-pages.pub
