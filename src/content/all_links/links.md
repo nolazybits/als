@@ -50,10 +50,14 @@ subtitle = ""
  # css_class = ""
 +++
 
-Although the western medicine tells us this is incurable and terminal, there are many alternative medecine that could prove successful.
-Many scientific articles are available on the web that will help nurture your hope. There is actually one [website](http://alsuntangled.com/completed.html) [^2] that has been created by a neurologist (and working with another 10) to fact check those alternative and rate them using [their defined scale](https://www.tandfonline.com/doi/full/10.3109/21678421.2014.987476) [^3].
 
-There is a [full section](/alternative-treatments/) on our site dedicated to those alternative treatments, how they work and links to the scientific papers.
 
-[^2]: ALS Untangled - http://alsuntangled.com/completed.html
-[^3]: ALS Untangled, The Table of Evidence - https://www.tandfonline.com/doi/full/10.3109/21678421.2014.987476
+[In Small Trial, EH301 Appears to Halt Progression of ALS](https://www.alzforum.org/news/research-news/small-trial-eh301-appears-halt-progression-als)
+
+
+Efficacy and tolerability of EH301 for amyotrophic lateral sclerosis: a randomized, double-blind, placebo-controlled human pilot study
+https://www.tandfonline.com/doi/full/10.1080/21678421.2018.1536152
+https://www.researchgate.net/publication/330596961_Efficacy_and_tolerability_of_EH301_for_amyotrophic_lateral_sclerosis_a_randomized_double-blind_placebo-controlled_human_pilot_study
+
+Randomized double-blind placebo-controlled trial of acetyl-L-carnitine for ALS.
+https://www.tandfonline.com/doi/full/10.3109/21678421.2013.764568

@@ -18,7 +18,7 @@ do
     key="$1"
     case $key in
         --build)
-        COMMANDS+="docker-compose build --no-cache"
+        COMMANDS+="cd \"${SCRIPT_DIR}\" && HOST_PATH=\"${ROOT_DIR}/\" docker-compose build --no-cache"
         shift # past argument
         ;;
         -c|--command)

@@ -30,15 +30,29 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-## Science
+## Natural Sources
 
-## 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Animal-based foods are good sources of carnitine, including:[^1]
+* Beef, 4 oz cooked - 56-162 mg
+* Chicken, 4 oz cooked - 3-5 mg
+* Milk, 1 cup whole - 8 mg
+* Cheese, 2 oz cheddar - 2 mg
+* Cheese, 2 oz cheddar - 2 mg
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+[^1]: excerpt from https://www.webmd.com/vitamins-and-supplements/acetyl-l-carnitine-uses-risks#1-3
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+## Articles
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+#### [2020 - ALS Untangled No. 53: Carnitine Supplements](https://www.tandfonline.com/doi/full/10.1080/21678421.2020.1726565)
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./carnitine_supplements.pdf">Download PDF</a> 
+> In conclusion, there are good theoretical mechanisms for carnitines, some pre-clinical evidence for LC and ALCAR, and a single clinical trial that suggested ALCAR could slow disease progression in PALS. All three carnitines appear to be well-tolerated, generally safe and inexpensive. We believe that there is a need for future clinical trials of carnitines in PALS to further elucidate their efficacy. Until there is further data, we cannot endorse any of these supplements as a definite way to slow ALS progression; **however, oral ALCAR at 1000mg three times daily (3000mg total daily dose) appears to be a theoretically promising supplement available for PALS whom would like to self-experiment**
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+#### 2013 - Randomised double-blind placebo controlled trial of acetyl-L-carnitine
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./randomized_double_blinf_placebo_controller_trial_of_acetyl_l_carnitine_for_als.pdf">Download PDF</a> 
+> Trial referenced in the ALS Untangle review
+
+## Suggested Dose
+1000mg three times daily (3000mg total daily dose)
+
+## Supplements
+[Consumerlab acetyl-l-carnitine product review](./consumerlab_acetyl-l-carnitine_supplement_review.pdf)

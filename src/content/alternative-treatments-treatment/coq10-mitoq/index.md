@@ -30,15 +30,39 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-## Science
+## Mechanisms
 
-## 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+## Articles
+{{% alert note %}}
+The titles of the articles are clickable and will redirect you to the online resource.
+The quote is the conclusion or an extract of the article. Please be sure to read them fully
+{{% /alert %}}
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+#### [2015 - Antioxidant MitoQ Shown As A Promising Therapy for ALS](https://alsnewstoday.com/2015/07/16/antioxidant-mitoq-shown-promising-therapy-als/)
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./antioxidant_mitoq_shown_as_a_promising _therapy_for_als.pdf">Download PDF</a> 
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+> “This study supports the role of mitochondrial dysfunction in the development and progression of ALS, which may allow
+> for the development of more mitochondria-targeted therapies to fight this disease,” concluded study’s co-author and
+> Director of the Center, Dr. Rafael Radi. “We also found that MitoQ has beneficial effects in the murine model of ALS,
+> which will likely lead to clinical trials using MitoQ with ALS patients and hopefully lead to extend the survival and
+> improve the quality of life of ALS patients.”
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+#### [2015 - An Overview of Potential Targets for Treating Amyotrophic Lateral Sclerosis and Huntington’s Disease](https://www.hindawi.com/journals/bmri/2015/198612/)
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./an_overview_of_potential_targets_for_treating_amyotrophic_lateral_sclerosis_and_huntingtons_disease.pdf">Download PDF</a>  
+ 
+> MitoQ is a mitochondrial antioxidant that contains the antioxidant Quinone linked to a lipophilic
+> triphenylphosphonium cation. Researchers showed that MitoQ prolonged life span and the pathology of SOD-knockout Drosophila melanogaster, 
+> the enzyme involved in ALS. In addition, the compound has been shown to exert neuroprotective effects in SODG93A mice, slowing functional decline,
+> decreasing oxidative damage and disease progression, and increasing survival.  
+> Furthermore, other studies showed that MitoQ preincubation prevented the cell death observed in cultures of motor 
+> neurons + SOD-mutant astrocytes alone.
+
+
+
+#### [2015 - ALS Untangled No. 29: MitoQ](https://www.tandfonline.com/doi/full/10.3109/21678421.2015.1050897)
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./als_untangled_29_mitoq.pdf">Download PDF</a>  
+
+> MitoQ has a promising mechanism, positive preclinical data from two different ALS models, and appears reasonably safe 
+> and inexpensive, especially at doses of 10 mg daily. Available anecdotal data are insufficient to determine how helpful
+> this might be in PALS. A small open-label pilot trial with validated ALS diagnoses and outcomes appears warranted.

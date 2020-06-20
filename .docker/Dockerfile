@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:buster
 
 ARG PROJECT_ID
 ARG HUGO_VERSION
