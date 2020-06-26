@@ -31,7 +31,13 @@ url_video: ""
 # slides: example
 ---
 ## Mechanisms
+Oxidative stress is believed to play a major role in ALS pathogenesis[^1]. Unfortunately, trials of antioxidants have thus far failed to show any benefits in patients with ALS[^2] [^3]. One explanation for these failures is that the antioxidants did not reach the optimal place. Since mitochondria are both the main producer and main target of oxidative stress, mitochondrial-focused antioxidant therapy might be more successful. Orally administered MitoQ can alter markers of both oxidative stress and mitochondrial dysfunction in cell culture (10) and animal model of ALS (11).
 
+[^1]: Carri M, Valle C, Bozzo F, Cozzolino M.Oxidative stress and mitochondrial damage: importance in non-SOD1 ALS . Front Cell Neurosci. 2015;9:41.
+ [PubMed](https://www.tandfonline.com/servlet/linkout?suffix=CIT0007&dbid=8&doi=10.3109%2F21678421.2015.1050897&key=25741238), [Web of Science ®](https://www.tandfonline.com/servlet/linkout?suffix=CIT0007&dbid=128&doi=10.3109%2F21678421.2015.1050897&key=000349604900001), [Google Scholar](http://scholar.google.com/scholar_lookup?hl=en&publication_year=2015&pages=41&author=M+Carri&author=C+Valle&author=F+Bozzo&author=M.+Cozzolino&title=Oxidative+stress+and+mitochondrial+damage%3A+importance+in+non-SOD1+ALS)
+[^2]: Kaufmann P, Thompson J, Buchsbaum R, Shefner J, Krivickas L, Katz J, et al.Phase II trial of coq10 for ALS finds insufficient evidence to justify phase III. Ann Neurol. 2009;66:234–44.
+ [Crossref](https://www.tandfonline.com/servlet/linkout?suffix=CIT0008&dbid=16&doi=10.3109%2F21678421.2015.1050897&key=10.1002%2Fana.21743), [Web of Science ®](https://www.tandfonline.com/servlet/linkout?suffix=CIT0008&dbid=128&doi=10.3109%2F21678421.2015.1050897&key=000269845400017), [Google Scholar](http://scholar.google.com/scholar_lookup?hl=en&publication_year=2009&pages=234-44&author=P+Kaufmann&author=J+Thompson&author=R+Buchsbaum&author=J+Shefner&author=L+Krivickas&author=J+Katz&title=Phase+II+trial+of+coq10+for+ALS+finds+insufficient+evidence+to+justify+phase+III)
+[^3]: test
 
 ## Articles
 {{% alert note %}}
