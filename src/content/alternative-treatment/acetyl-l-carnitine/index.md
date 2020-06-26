@@ -1,6 +1,6 @@
 ---
 title: Acetyl-L-Carnitine
-url: "/alternative-treatments/acetyl-l-carnitine"
+url: "/alternative-treatment/acetyl-l-carnitine"
 summary: An example of using the in-built project page.
 tags:
 - supplements

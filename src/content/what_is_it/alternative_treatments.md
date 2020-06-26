@@ -50,8 +50,8 @@ subtitle = ""
  # css_class = ""
 +++
 
-Although the western medicine tells us this is incurable and terminal, there are many alternative medecine that could prove successful.
-Many scientific articles are available on the web that will help nurture your hope. There is actually one [website](http://alsuntangled.com/completed.html) [^2] that has been created by a neurologist (and working with another 10) to fact check those alternative and rate them using [their defined scale](https://www.tandfonline.com/doi/full/10.3109/21678421.2014.987476) [^3].
+Although the western medicine tells us this is incurable and terminal, there are many alternative treatments that could prove successful.
+Many scientific articles are available on the web that will help nurture your hope. There is actually one [website](http://alsuntangled.com/completed.html) [^2] that has been created by a neurologist (and working with a team of many) to fact check those alternatives and rate them using [their defined scale](https://www.tandfonline.com/doi/full/10.3109/21678421.2014.987476) [^3].
 
 There is a [full section](/alternative-treatments/) on our site dedicated to those alternative treatments, how they work and links to the scientific papers.
 

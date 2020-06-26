@@ -1,6 +1,6 @@
 ---
-title: "NMN | EH301 - Elysium Basis"
-url: "/alternative-treatments/eh301"
+title: "NMN | NR"
+url: "/alternative-treatment/nmn-nr"
 summary: Nicotinamide mononucleotide and Nicotinamide Riboside
 tags:
 - supplements
@@ -42,7 +42,7 @@ NR (Nicotinamide Riboside)
 * [NMN as a potential therapeutic agent for muscle disease](https://www.nmn.com/news/nmn-as-potential-therapeutic-agent-for-muscle-disease)
 * [Enhancing NAD+ Salvage Pathway Reverts the Toxicity of Primary Astrocytes Expressing Amyotrophic Lateral Sclerosis-linked Mutant Superoxide Dismutase 1 (SOD1)](https://www.ncbi.nlm.nih.gov/pubmed/27002158)
 
-#### EH301 - Elysium Health Basis (patented NR + PT (pterostilbene) )
+#### EH301 - NR + PT (pterostilbene)
 * 19 Feb 2019  
   [University of Valencia Research Reveals that eH301 May Halt ALS Progression](https://www.trialsitenews.com/university-of-valencia-research-reveals-that-eh301-may-halt-als-progression/)
 * 18 Feb 2019

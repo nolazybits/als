@@ -1,0 +1,34 @@
+name: Publish Site
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          submodules: true
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2.2.0
+        with:
+          hugo-version: '0.72.0'
+          extended: true
+
+      - name: Build
+        working-directory: ./src
+        run: hugo --gc --minify --cleanDestinationDir --destination="../public"
+
+      - name: CNAME
+        run: echo "alsmnd.com" > ./public/CNAME
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v2.4.0
+        env:
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: ./public

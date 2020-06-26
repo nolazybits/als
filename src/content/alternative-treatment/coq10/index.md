@@ -1,6 +1,6 @@
 ---
-title: "Coq10 - MitoQ Brain"
-url: "/alternative-treatments/coq10-mitoq"
+title: "Coenxyme Q10 (coq10)"
+url: "/alternative-treatment/coq10"
 summary: An example of using the in-built project page.
 tags:
 - supplements

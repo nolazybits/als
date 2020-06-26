@@ -1,6 +1,6 @@
 ---
 title: Exercises
-url: "/alternative-treatments/exercises"
+url: "/alternative-treatment/exercises"
 summary: An example of using the in-built project page.
 tags:
 - others

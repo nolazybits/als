@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -50,7 +50,8 @@ subtitle = ""
  # css_class = ""
 +++
 
-{{< youtube tq0MO2x31NA >}}
-video taken from the [MNDAssociation](https://www.mndassociation.org/about-mnd/what-is-mnd/basic-facts-about-mnd/)
-
-{{< youtube xrIjFVMliOQ >}}
+{{% alert note %}}
+I am not a doctor just someone who got diagnosed too. During my researches I have came across many resources no medical worker told me about.
+I am trying here to list those resources I have found online.  
+Please make your own opinion by reading the links provided in the articles.
+{{% /alert %}} 

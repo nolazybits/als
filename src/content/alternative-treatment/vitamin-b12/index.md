@@ -1,6 +1,6 @@
 ---
-title: Theracurmin
-url: "/alternative-treatments/theracurmin"
+title: Vitamin B-12
+url: "/alternative-treatment/vitamin-b12"
 summary: An example of using the in-built project page.
 tags:
 - supplements

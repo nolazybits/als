@@ -1,6 +1,6 @@
 ---
 title: Acupuncture
-url: "/alternative-treatments/exercises"
+url: "/alternative-treatment/acupuncture"
 summary: An example of using the in-built project page.
 tags:
 - others

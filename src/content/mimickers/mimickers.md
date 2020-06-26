@@ -50,7 +50,8 @@ subtitle = ""
  # css_class = ""
 +++
 
-{{< youtube tq0MO2x31NA >}}
-video taken from the [MNDAssociation](https://www.mndassociation.org/about-mnd/what-is-mnd/basic-facts-about-mnd/)
+### Celiac Disease
 
-{{< youtube xrIjFVMliOQ >}}
+### Hypoparathyroid
+
+### Multifocal motor neuropathy
