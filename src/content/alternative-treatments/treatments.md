@@ -30,6 +30,14 @@ subtitle = ""
     tag = "supplements"
   
   [[content.filter_button]]
+    name = "Drugs"
+    tag = "drugs"   
+
+  [[content.filter_button]]
+    name = "Research"
+    tag = "research"  
+
+  [[content.filter_button]]
     name = "Others"
     tag = "others"
 
