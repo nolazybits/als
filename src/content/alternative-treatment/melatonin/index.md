@@ -41,6 +41,6 @@ Melatonin is a naturally occurring hormone that is best known for its role in sl
 ### 2006 - Reduced oxidative damage in ALS by high-dose enteral melatonin treatment
 <a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./reduced_oxidative_damage_in_als_by_high.pdf">Download PDF</a> 
 
-> [...] melatonin slowed disease progression by 25% or 73%, depending on the definition of Ôdisease onsetÕ, by the appearance of first tremor or failure on the rotarod, respectively.  
+> [...] melatonin slowed disease progression by 25% or 73%, depending on the definition of "disease onset", by the appearance of first tremor or failure on the rotarod, respectively.  
 
 > Translating these findings to human ALS, we are aware that a cure by melatonin is unlikely. An increase in life expectancy, however, is a worth-while goal, specifically during the early stages of this disease.
