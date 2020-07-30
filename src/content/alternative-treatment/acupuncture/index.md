@@ -46,11 +46,8 @@ There are no clinical trials currently testing the effects of acupuncture therap
 ## Articles
 {{% article-note %}}
 
-#### 2020 - Treatment of ALS with Chinese Medicine
-<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./treatment_of_als_with_chinese_medicine.pdf">Download PDF</a>  
-
 #### 2017 - Amyotrophic Lateral Sclerosis: An Acupuncture Approach
-<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./aals_acupunture">Download PDF</a>  
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./als_acupunture.pdf">Download PDF</a>  
 
 #### 2015 - A Modern Clinical Approach of the Traditional Korean Saam Acupuncture
 <a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./a_modern_clinical_approach_traditional_korean_saam_acupuncture.pdf">Download PDF</a>  
@@ -60,3 +57,6 @@ There are no clinical trials currently testing the effects of acupuncture therap
 
 #### 2011 - Significant Neurological Improvement in Two Patients with Amyotrophic Lateral Sclerosis After 4 Weeks of Treatment with Acupuncture Injection Point Therapy Using Enercel
 <a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./acupuncture_injection_point_therapy_using_enercel.pdf">Download PDF</a>  
+
+#### 2003 - Treatment of ALS with Chinese Medicine
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./treatment_of_als_with_chinese_medicine.pdf">Download PDF</a>  
