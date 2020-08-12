@@ -75,3 +75,11 @@ Patient #2 continued regular Enercel acupoint injection therapy and Enercel use.
 
 #### 2003 - Treatment of ALS with Chinese Medicine
 <a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./treatment_of_als_with_chinese_medicine.pdf">Download PDF</a>  
+
+## Practices used by ALS patient.
+
+### New Zealand
+* **South Auckland Chinese Medical Centre**  
+  Phone: 09 276 1183  
+  Address: 271 Great South Road, Otahuhu, Auckland  
+  Practitioner: Rong Helen Zhang 
