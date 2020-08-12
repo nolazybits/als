@@ -1,7 +1,7 @@
 ---
 title: Acupuncture
 url: "/alternative-treatment/acupuncture"
-summary: An example of using the in-built project page.
+summary: Acupuncture is the most well known aspect of Chinese Medicine. Place needles to defined points on the body.
 tags:
 - others
 date: "2020-05-09T00:00:00Z"

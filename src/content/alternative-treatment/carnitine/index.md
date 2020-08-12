@@ -31,11 +31,12 @@ url_video: ""
 # slides: example
 ---
 ## Science
+
 Acetyl-L-carnitine supplies L-carnitine, which is important in the transport of long chain fatty acids across mitochondrial membranes. In addition, the acetyl moiety can be transferred to provide acetyl CoA. Therefore, acetyl-L-carnitine improves cerebral oxidative energy production and fatty acid oxidation in muscles. It has shown beneficial effects in models of traumatic brain and spinal cord injury, cerebral ischemia, stroke and patients with Alzheimer's disease. In primary motor neuron cultures from rats, acetyl-L-carnitine was found to protect against kainate and NMDA-induced toxicity. In light of this, a randomized double blind placebo-controlled trial was performed in small number of patients with ALS to investigate the effects of add-on acetyl-L-carnitine to riluzole vs. riluzole only treatment. Patients tolerated the combination well and had a better score in the ALS Functional Rating Scale[^1]
 
 [^1]: excerpt from https://www.frontiersin.org/articles/10.3389/fnins.2016.00611/full#B59
 
-Mechanisms:[^2]  
+### Mechanisms:[^2]  
 
 * Enhanced exercise performance
 * Reduced oxidative stress
