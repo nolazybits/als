@@ -50,8 +50,44 @@ subtitle = ""
  # css_class = ""
 +++
 
-### Celiac Disease
+Work In progress.
+For now a raw list
 
-### Hypoparathyroid
+SMA
+Polymyositus
+Myostenia Gravís
+Kennedy’s disease.
+demyelination disease
 
-### Multifocal motor neuropathy
+Chiari malformation
+Myasthenia gravis
+CIDP
+MMN
+Mitochondrial disease
+Isaac’s Syndrome/neuromyotonia
+Charcot-Marie-Tooth
+Multiple sclerosis
+Guilllain Barre Syndrome
+Heavy metal poisoning
+Medication reactions
+Post viral syndrome
+Lyme disease
+Fibromyalgia
+Cancers of various descriptions
+Kennedy disease
+Small fiber neuropathy
+Parsonage-turner Syndrome
+Spinal disorders
+Thyroid disease
+Diabetic neuropathy
+Vitamin deficiencies
+Vitamin toxicities
+Painful legs moving toes
+Pompe disease
+Vasculitis
+Polymyositis
+Inflammatory myopathy
+Celiac Disease
+Hypoparathyroid
+Multifocal motor neuropathy
+
