@@ -1,7 +1,7 @@
 ---
 title: Theracurmin
 url: "/alternative-treatment/theracurmin"
-summary: novel preparation of turmeric
+summary: Curcumin is a natural and liposoluble dye obtained from turmeric. It has neuroprotective effects and provides protection against OS, mitochondrial dysfunction, inflammation and protein aggregation. 
 tags:
 - supplements
 date: "2020-05-09T00:00:00Z"
