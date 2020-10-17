@@ -60,7 +60,7 @@ The current case is remarkable in that, after relentless aggravation for 4 month
 <a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./a_modern_clinical_approach_traditional_korean_saam_acupuncture.pdf">Download PDF</a>  
 
 #### 2015 - ALS Untangled - Acupuncture
-<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./alsuntangled_28_acupunture.pdf">Download PDF</a>  
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./alsuntangled_28_acupuncture.pdf">Download PDF</a>  
 > Acupuncture is reasonably safe, and has potential mechanisms of action, pre-clinical studies and case reports suggesting that it could be a useful treatment for ALS. However, before it can be endorsed even as a candidate for a phase II trial, the studies described above need to be independently replicated using more clearly verified diagnoses and more rigorous designs, including appropriate controls and validated ALS outcome measures.
 
 #### 2013 - The Effects of Sa-Am Acupuncture Treatment on Respiratory Physiology Parameters in Amyotrophic Lateral Sclerosis Patients: A Pilot Study
@@ -82,4 +82,4 @@ Patient #2 continued regular Enercel acupoint injection therapy and Enercel use.
 * **South Auckland Chinese Medical Centre**  
   Phone: 09 276 1183  
   Address: 271 Great South Road, Otahuhu, Auckland  
-  Practitioner: Rong Helen Zhang 
+  Practitioner: Rong Helen Zhang
