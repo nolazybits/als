@@ -15,7 +15,13 @@ RUN apt-get clean \
         git\
         screen\
         vim\
+        wget\
         zsh
+
+# install go, required
+RUN wget https://dl.google.com/go/go1.13.4.linux-amd64.tar.gz \
+    && tar -C /usr/local -xzf go1.13.4.linux-amd64.tar.gz \
+    && rm go1.13.4.linux-amd64.tar.gz
 
 #            procps \
 #            vim \
@@ -55,6 +61,7 @@ RUN printf "\
     export PATH=/usr/local/sbin:\${PATH} \n\
     export PATH=~/.local/bin:\${PATH} \n\
     export PATH=~/application/node_modules/.bin:\${PATH} \n\
+    export PATH=/usr/local/go/bin:\${PATH} \n\
     \n\
     fpath=(~/.zsh_completion \"\${fpath[@]}\") \n\
     \n\

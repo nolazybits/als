@@ -51,7 +51,6 @@ SLEEP="${HUGO_REFRESH_TIME:=-1}"
 
 echo "HUGO_WATCH:" $WATCH
 echo "HUGO_REFRESH_TIME:" $HUGO_REFRESH_TIME
-echo "HUGO_THEME:" "$HUGO_THEME"
 echo "HUGO_BASEURL" "$HUGO_BASEURL"
 echo "ARGS" "$@"
 
@@ -65,17 +64,17 @@ fi
 
 while [ true ]
 do
-    if [[ $HUGO_WATCH != 'false' ]]; then
+    if [[ ${HUGO_WATCH} != 'false' ]]; then
 	    echo "Watching..."
-        $HUGO server --watch=true --source="${HUGO_SOURCE}" --theme="$HUGO_THEME" --destination="$HUGO_DESTINATION" --baseURL="$HUGO_BASEURL" --port="$HUGO_PORT"  --disableFastRender --bind="0.0.0.0" "$@" || exit 1
+        ${HUGO} server --watch=true --source="${HUGO_SOURCE}" --destination="${HUGO_DESTINATION}" --baseURL="${HUGO_BASEURL}" --port="${HUGO_PORT}"  --disableFastRender --bind="0.0.0.0" "$@" || exit 1
     else
 	    echo "Building one time..."
-        $HUGO --source="${HUGO_SOURCE}" --theme="$HUGO_THEME" --destination="$HUGO_DESTINATION" --baseURL="$HUGO_BASEURL" "$@" || exit 1
+        ${HUGO} --source="${HUGO_SOURCE}" --destination="${HUGO_DESTINATION}" --baseURL="${HUGO_BASEURL}" "$@" || exit 1
     fi
 
-    if [[ $HUGO_REFRESH_TIME == -1 ]]; then
+    if [[ ${HUGO_REFRESH_TIME} == -1 ]]; then
         exit 0
     fi
-    echo "Sleeping for $HUGO_REFRESH_TIME seconds..."
-    sleep $SLEEP
+    echo "Sleeping for ${HUGO_REFRESH_TIME} seconds..."
+    sleep ${SLEEP}
 done
