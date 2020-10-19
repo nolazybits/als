@@ -38,6 +38,7 @@ When injected into the spinal cord, NSI-566 differentiates into types of neurons
 
 Seneca Bio received orphan designation by the FDA for NSI-566 in ALS. NSI-566 was evaluated in Phase 1 and Phase 2 safety studies in 30 patients. The data showed that the intraspinal transplantation of the cells was safe and well tolerated. Subjects from both the Phase 1 and Phase 2 studies continue to be monitored for long-term follow-up evaluations. 
 
+You can check Seneca [product pipeline](https://senecabio.com/pipeline/nsi-566.html)
 
 ## Articles
 {{% article-note %}}

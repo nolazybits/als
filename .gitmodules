@@ -1,6 +1,3 @@
-[submodule "src/themes/academic"]
-	path = src/themes/academic
-	url = https://github.com/gcushen/hugo-academic.git
 [submodule "src/static/js/hugo-footnotes-popup"]
 	path = src/static/js/hugo-footnotes-popup
 	url = https://github.com/vaetas/hugo-footnotes-popup.git
