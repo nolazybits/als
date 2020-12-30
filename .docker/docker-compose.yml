@@ -2,6 +2,8 @@ version: "3.7"
 
 services:
   hugo:
+    env_file: 
+      - .env
     container_name: ${PROJECT_ID}
     environment:
       - PROJECT_ID

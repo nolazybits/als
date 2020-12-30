@@ -33,6 +33,10 @@ url_video: ""
 ## Science
 Melatonin is a naturally occurring hormone that is best known for its role in sleep regulation. After screening more than a thousand FDA-approved drugs several years ago, researchers determined that melatonin is a powerful antioxidant that blocks the release of enzymes that activate apoptosis, or programmed cell death.
 
+## Dosage
+{{% dosage-note %}}
+- 300mg/day as suppository
+
 ## Articles
 {{% article-note %}}
 
