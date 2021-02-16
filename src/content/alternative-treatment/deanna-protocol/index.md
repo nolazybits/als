@@ -60,7 +60,10 @@ TODO
 
 ### Dr Tedone advices
 
-* Take AAKG with a ration of 1:1 Arginine to Alpha-Ktoglutarate. You can find those on [Simplesa](https://www.simplesanutrition.com/products/aakg-powder-250-grams.html) [but other provider exists too google it :)]
+* Take AAKG with a ration of 1:1 Arginine to Alpha-Ktoglutarate.  
+Example:  
+  * [Primaforce](https://nz.iherb.com/pr/Primaforce-AAKG-Unflavored-250-g/58649)
+  * [Simplesa](https://www.simplesanutrition.com/products/aakg-powder-250-grams.html)
 
 ## Science
 * Arginine-alpha-ketoglutarate (AAKG)
