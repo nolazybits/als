@@ -4,7 +4,7 @@ url: "/alternative-treatment/masitinib"
 summary: Masitinib is currently the only tyrosine kinase inhibitor in late-stage development for ALS. Masitinib distinguishes itself from other ALS developmental drugs by exerting neuroprotection in both central and peripheral nervous systems.
 tags:
 - drugs
-date: "2020-05-09T00:00:00Z"
+date: "2021-02-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
