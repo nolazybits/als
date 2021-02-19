@@ -1,5 +1,5 @@
 ---
-title: Deanna Protocole
+title: Deanna Protocol
 url: "/alternative-treatment/deanna-protocol"
 summary: Protocol created by Dr Tedone for his daughter Deanna. Proved to be successful and has (suppositely) helped many PALS.
 tags:
@@ -41,6 +41,8 @@ Throughout the years, Dr. Tedone and scientists at different universities have t
 
 [^1]: from [winningthefight.org](https://winningthefight.org/)
 
+You can find a lot more information on the official website: https://winningthefight.org/
+
 ## The protocol
 
 ### Supplements
@@ -64,6 +66,13 @@ TODO
 Example:  
   * [Primaforce](https://nz.iherb.com/pr/Primaforce-AAKG-Unflavored-250-g/58649)
   * [Simplesa](https://www.simplesanutrition.com/products/aakg-powder-250-grams.html)
+
+## Borrelia Bacteria
+> We have a strong body of evidence suggesting that ALS is likely caused by an undiagnosed infection with borrelia bacteria and at times coinfections Deanna and the vast majority of other individuals we have worked with who have ALS have been diagnosed with borrelia infections [^2]
+
+Please check [this page](https://winningthefight.org/borrelia-bacteria/) with test recommendation 
+
+[^2]: https://winningthefight.org/borrelia-bacteria/
 
 ## Science
 * Arginine-alpha-ketoglutarate (AAKG)
