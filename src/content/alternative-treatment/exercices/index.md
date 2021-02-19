@@ -32,13 +32,42 @@ url_video: ""
 ---
 ## Science
 
-## 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Exercise may have many benefits for ALS patients, including reducing depression and improving strength and stamina. But it must be performed carefully to be beneficial. Patients should work with a physical therapist to determine how best to exercise safely, as well as to ensure that they include stretching, strength-building, and range-of-motion exercises in their routine.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Regular and moderate exercise is better than excessive exercise. It is important for patients to avoid overworking their muscles. Aching muscles after exercise mean that they have been overstressed, and this may actually speed muscle loss. Patients should stop exercising when they get tired, rather than trying to push through the fatigue.[^1]
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+[^1]: https://alsnewstoday.com/als-and-exercise/  
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+## Exercise Guildeline
+**Aerobic exercise** can increase muscle efficiency and endurance by increasing heart rate, respiratory rate and overall cardiovascular fitness. Aerobic exercise examples are **swimming**, **water walking**, walking, cycling, rowing, ...
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Remember to exercise in moderation - exercising to the point of fatigue may actually result in increased muscle weakness.
+
+### Stretching exercises
+
+May help decrease the frequency or intensity of muscle cramping. These should be done daily to prevent pain and stiffness.
+
+### Range of motion exercises (ROM)
+
+Help move the joints through their full range of motion. These should be performed actively, if possible, or passively if muscle weakness limits movement. These should be done daily to prevent pain and stiffness.
+
+### ~~Strengthening exercises~~
+
+**Are not recommended**. Working out with weights will not strengthen those muscles already weakened by ALS and could result in increased muscle weakness.[^2]
+
+[^2]: https://my.clevelandclinic.org/health/diseases/16729-amyotrophic-lateral-sclerosis-als
+
+## Articles  
+{{% article-note %}}  
+
+### [2019 - The Role of Exercise as a Non-pharmacological Therapeutic Approach for Amyotrophic Lateral Sclerosis: Beneficial or Detrimental?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6652799/)  
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./als_role_of_exercise.pdf">Download PDF</a>  
+> Although previous evidence suggests a potential relationship
+between heavily active lifestyles and an increased incidence of
+ALS (30, 31, 109), recent studies support that physical activity is
+not necessarily a risk factor for ALS (42, 43, 110). There is now a
+large body of evidence suggesting physical activity as a potential
+therapeutic or even holistic approach for ALS.
+
+### [Strengthening Exercises May Slow Progression Of Als](https://www.aan.com/PressRoom/home/PressRelease/516)  
+> The study found those who did moderate strengthening exercises had a 12-percent slower decrease in function and a 16-percent slower decline in quality of life over the six months than those who did the stretching exercises alone.  
