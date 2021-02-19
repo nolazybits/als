@@ -57,12 +57,13 @@ Example:
 &lt;h2 id="science">Science&lt;/h2>
 &lt;ul>
 &lt;li>Arginine-alpha-ketoglutarate (AAKG)
-TODO&lt;/li>
+Delivers energy to nerves&lt;/li>
 &lt;li>Alpha-ketoglutarate (AKG)
-TODO&lt;/li>
+Delivers energy to nerves&lt;/li>
 &lt;li>Gamma Aminobutyric Acid (GABA)
-TODO&lt;/li>
-&lt;li>&lt;/li>
+Inhibitory neurotransmitter&lt;/li>
+&lt;li>Nicotinamide
+Stops nerve cell death&lt;/li>
 &lt;/ul>
 &lt;h2 id="articles">Articles&lt;/h2>
 &lt;div class="alert alert-note">
@@ -72,10 +73,21 @@ The quote is the conclusion or an extract of the article.
 Please be sure to read them fully
 &lt;/div>
 &lt;/div>
-&lt;h3 id="metabolic-therapy-with-deanna-protocol-supplementation-delays-disease-progression-and-extends-survival-in-amyotrophic-lateral-sclerosis-als-mouse-modelhttpswwwncbinlmnihgovpmcarticlespmc4111621">&lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4111621/" target="_blank" rel="noopener">Metabolic Therapy with Deanna Protocol Supplementation Delays Disease Progression and Extends Survival in Amyotrophic Lateral Sclerosis (ALS) Mouse Model&lt;/a>&lt;/h3>
+&lt;h3 id="2017---evaluation-of-holistic-treatment-for-als-reveals-possible-mechanism-and-therapeutic-potentialhttpswwwncbinlmnihgovpmcarticlespmc6326589">&lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6326589/" target="_blank" rel="noopener">2017 - Evaluation of Holistic Treatment for ALS Reveals Possible Mechanism and Therapeutic Potential&lt;/a>&lt;/h3>
+&lt;p>&lt;a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./evaluation_of_holistic_treatment_for_als_reveals_possible_mechanism_and_therapeutic_potential.pdf">Download PDF&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>In this study, glutamate exposure to human motoneurons was investigated and found not to significantly affect cell viability or electrophysiological properties. However, varicosities were observed in axons suggestive of transport impairment that was dose dependent for glutamate exposure. Surprisingly, a subset of the components of the DP eliminated these varicosities.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="2014---metabolic-therapy-with-deanna-protocol-supplementation-delays-disease-progression-and-extends-survival-in-amyotrophic-lateral-sclerosis-als-mouse-modelhttpswwwncbinlmnihgovpmcarticlespmc4111621">&lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4111621/" target="_blank" rel="noopener">2014 - Metabolic Therapy with Deanna Protocol Supplementation Delays Disease Progression and Extends Survival in Amyotrophic Lateral Sclerosis (ALS) Mouse Model&lt;/a>&lt;/h3>
 &lt;p>&lt;a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./deanna_protocol_delay.pdf">Download PDF&lt;/a>&lt;/p>
 &lt;blockquote>
 &lt;p>Our results support the idea that targeted metabolic therapies, like the DP, can improve motor function and survival time, though further research is needed to elucidate the cellular and molecular mechanisms underlying these results. Dose response studies, histological analysis, and metabolomic analysis will help to define the optimal formula to enhance metabolic substrate delivery and utilization to help mitigate the ALS pathology. The components of the DP supplement have a good safety profile and are readily available over the counter, which is an important consideration in moving this therapy into phase I clinical trial.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="2013---als-untangled---deanna-protocolhttpswwwalsuntangledcomreviewdeanna-protocol">&lt;a href="https://www.alsuntangled.com/review/deanna-protocol/" target="_blank" rel="noopener">2013 - ALS Untangled - Deanna Protocol&lt;/a>&lt;/h3>
+&lt;p>&lt;a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./als_untangled_20_deanna_protocol.pdf">Download PDF&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Mitochondrial dysfunction, glutamate excitotoxicity, and oxidative stress have all been implicated in ALS pathogenesis, and targeting these mechanisms individually or by a cocktail such as the Deanna Protocol could play a role in future ALS therapies. However, many of the preclinical and animal studies related to these pathways have not translated into successful treatments in patients with ALS. While there are anecdotal reports of improvements in patients with ALS on the Deanna Protocol, there is no convincing objective evidence of benefit yet. Thus, at this time, ALSUntangled does not recommend the Deanna Protocol to patients with ALS.&lt;/p>
+&lt;p>Before it can be recommended, a reproducible version of the Deanna Protocol should be shown to influence plausible physiologic mechanisms such as central nervous system ketone bodies, as well as clinically meaningful outcome measures such as ALSFRS-R and FVC in patients with ALS.&lt;/p>
 &lt;/blockquote>
 &lt;section class="footnotes" role="doc-endnotes">
 &lt;hr>
