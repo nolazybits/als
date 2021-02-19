@@ -77,7 +77,13 @@ Example:
 ## Articles
 {{% article-note %}}
 
-### [Metabolic Therapy with Deanna Protocol Supplementation Delays Disease Progression and Extends Survival in Amyotrophic Lateral Sclerosis (ALS) Mouse Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4111621/)
+### [2014 - Metabolic Therapy with Deanna Protocol Supplementation Delays Disease Progression and Extends Survival in Amyotrophic Lateral Sclerosis (ALS) Mouse Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4111621/)
 <a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./deanna_protocol_delay.pdf">Download PDF</a> 
 
 > Our results support the idea that targeted metabolic therapies, like the DP, can improve motor function and survival time, though further research is needed to elucidate the cellular and molecular mechanisms underlying these results. Dose response studies, histological analysis, and metabolomic analysis will help to define the optimal formula to enhance metabolic substrate delivery and utilization to help mitigate the ALS pathology. The components of the DP supplement have a good safety profile and are readily available over the counter, which is an important consideration in moving this therapy into phase I clinical trial.
+
+### [2013 - ALS Untangled - Deanna Protocol](https://www.alsuntangled.com/review/deanna-protocol/)  
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./als_untangled_20_deanna_protocol.pdf">Download PDF</a>  
+> Mitochondrial dysfunction, glutamate excitotoxicity, and oxidative stress have all been implicated in ALS pathogenesis, and targeting these mechanisms individually or by a cocktail such as the Deanna Protocol could play a role in future ALS therapies. However, many of the preclinical and animal studies related to these pathways have not translated into successful treatments in patients with ALS. While there are anecdotal reports of improvements in patients with ALS on the Deanna Protocol, there is no convincing objective evidence of benefit yet. Thus, at this time, ALSUntangled does not recommend the Deanna Protocol to patients with ALS.
+>
+> Before it can be recommended, a reproducible version of the Deanna Protocol should be shown to influence plausible physiologic mechanisms such as central nervous system ketone bodies, as well as clinically meaningful outcome measures such as ALSFRS-R and FVC in patients with ALS.
