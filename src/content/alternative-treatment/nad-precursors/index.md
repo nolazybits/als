@@ -32,7 +32,7 @@ authors:
 ---
 ## Science
 
-
+![NAD Cycle](./nad_cycle.png)
 ### What is NAD
 Nicotinamide adenine dinucleotide (NAD) is a cofactor central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as NAD+ and NADH respectively.[^1]
 
