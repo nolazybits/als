@@ -32,9 +32,9 @@ authors:
 ---
 ## Science
 
-![NAD Cycle](./nad_cycle.png)
+
 ### What is NAD
-Nicotinamide adenine dinucleotide (NAD) is a cofactor central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as NAD+ and NADH respectively.[^1]
+<img style="float: left;" src="./nad_cycle.jpeg">Nicotinamide adenine dinucleotide (NAD) is a cofactor central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as NAD+ and NADH respectively.[^1]
 
 [...]There are three major functions of NAD. First, it allows us to convert our food into ATP, which is the biological chemical currency that allows us to move our muscles, have ideas, and run all of our cells. Second, NAD also catalyzes conversion of the food we eat into everything we are, including DNA, RNA, proteins, hormones and lipids. Third, NAD helps us to repair cellular damage to DNA, protein and fat that is caused by the way we live our lives, what we eat or drink, how we sleep, travel, sun, the air we breath, stress and just plain old wear-and-tear. [^2]
 
