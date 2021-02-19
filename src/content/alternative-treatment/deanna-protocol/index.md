@@ -1,7 +1,7 @@
 ---
 title: Deanna Protocole
 url: "/alternative-treatment/deanna-protocol"
-summary: Protocol create by Dr Tedone for his daughter Deanna. Proved to be successful and has (suppositely) helped many PALS.
+summary: Protocol created by Dr Tedone for his daughter Deanna. Proved to be successful and has (suppositely) helped many PALS.
 tags:
 - protocols
 date: "2021-01-18T00:00:00Z"
@@ -77,11 +77,7 @@ Example:
 ## Articles
 {{% article-note %}}
 
-### [2013 - Melatonin slows als symptoms in mice](https://www.futurity.org/melatonin-slows-als-symptoms-in-mice/)
+### [Metabolic Therapy with Deanna Protocol Supplementation Delays Disease Progression and Extends Survival in Amyotrophic Lateral Sclerosis (ALS) Mouse Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4111621/)
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./deanna_protocol_delay.pdf">Download PDF</a> 
 
-### 2006 - Reduced oxidative damage in ALS by high-dose enteral melatonin treatment
-<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./reduced_oxidative_damage_in_als_by_high.pdf">Download PDF</a> 
-
-> [...] melatonin slowed disease progression by 25% or 73%, depending on the definition of "disease onset", by the appearance of first tremor or failure on the rotarod, respectively.  
-
-> Translating these findings to human ALS, we are aware that a cure by melatonin is unlikely. An increase in life expectancy, however, is a worth-while goal, specifically during the early stages of this disease.
+> Our results support the idea that targeted metabolic therapies, like the DP, can improve motor function and survival time, though further research is needed to elucidate the cellular and molecular mechanisms underlying these results. Dose response studies, histological analysis, and metabolomic analysis will help to define the optimal formula to enhance metabolic substrate delivery and utilization to help mitigate the ALS pathology. The components of the DP supplement have a good safety profile and are readily available over the counter, which is an important consideration in moving this therapy into phase I clinical trial.

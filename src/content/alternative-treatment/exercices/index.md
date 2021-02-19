@@ -1,7 +1,7 @@
 ---
 title: Exercises
 url: "/alternative-treatment/exercises"
-summary: An example of using the in-built project page.
+summary: Exercise may have many benefits for ALS patients
 tags:
 - others
 date: "2020-05-09T00:00:00Z"
