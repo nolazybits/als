@@ -67,15 +67,21 @@ Example:
 
 ## Science
 * Arginine-alpha-ketoglutarate (AAKG)
-  TODO
+  Delivers energy to nerves
 * Alpha-ketoglutarate (AKG)
-  TODO
+  Delivers energy to nerves
 * Gamma Aminobutyric Acid (GABA)
-  TODO
-* 
+  Inhibitory neurotransmitter
+* Nicotinamide
+  Stops nerve cell death
 
 ## Articles
 {{% article-note %}}
+
+### [2017 - Evaluation of Holistic Treatment for ALS Reveals Possible Mechanism and Therapeutic Potential](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6326589/)
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./evaluation_of_holistic_treatment_for_als_reveals_possible_mechanism_and_therapeutic_potential.pdf">Download PDF</a>  
+
+> In this study, glutamate exposure to human motoneurons was investigated and found not to significantly affect cell viability or electrophysiological properties. However, varicosities were observed in axons suggestive of transport impairment that was dose dependent for glutamate exposure. Surprisingly, a subset of the components of the DP eliminated these varicosities.
 
 ### [2014 - Metabolic Therapy with Deanna Protocol Supplementation Delays Disease Progression and Extends Survival in Amyotrophic Lateral Sclerosis (ALS) Mouse Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4111621/)
 <a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./deanna_protocol_delay.pdf">Download PDF</a> 
