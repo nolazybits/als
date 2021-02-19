@@ -38,6 +38,10 @@ subtitle = ""
     tag = "research"  
 
   [[content.filter_button]]
+    name = "Protocols"
+    tag = "protocols"
+
+  [[content.filter_button]]
     name = "Others"
     tag = "others"
 

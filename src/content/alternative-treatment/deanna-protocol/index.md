@@ -70,6 +70,9 @@ Example:
 ## Borrelia Bacteria
 > We have a strong body of evidence suggesting that ALS is likely caused by an undiagnosed infection with borrelia bacteria and at times coinfections Deanna and the vast majority of other individuals we have worked with who have ALS have been diagnosed with borrelia infections [^2]
 
+* A full page on the idea [Does Bacteria Cause Neurological Diseases](https://winningthefight.org/portfolio-items/does-bacteria-cause-neurological-diseases/)  
+* [How Deanna is treated](https://winningthefight.org/pulsed-method/deanna-is-on-the-pulsed-method/)
+
 Please check [this page](https://winningthefight.org/borrelia-bacteria/) with test recommendation 
 
 [^2]: https://winningthefight.org/borrelia-bacteria/

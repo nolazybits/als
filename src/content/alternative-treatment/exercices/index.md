@@ -60,6 +60,17 @@ Help move the joints through their full range of motion. These should be perform
 ## Articles  
 {{% article-note %}}  
 
+
+### [2021 - Systematic Review of Therapeutic Physical Exercise in Patients with Amyotrophic Lateral Sclerosis over Time](https://www.mdpi.com/1660-4601/18/3/1074)
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./systematic_review_of_therapeutic_physical_exercise_in_patients_with_amyotrophic_lateral_sclerosis_over_time.pdf">Download PDF</a> 
+> Therapeutic interventions included a variety of physical exercises, such as aerobic exercise, moderate-to-high-intensity strength and endurance training, and stretching, and lasted from two weeks to six months.
+>
+> Slight increases in ALSFRS-R scores — noting a gain in functional capacity — started to be seen in patients receiving therapeutic physical exercise as early as in the first month of treatment.
+>
+> According to investigators, these beneficial short-term effects are important to consider, especially “since, when dealing with the rehabilitation of a degenerative disease, function is expected to be lost with the passage of time.”
+>
+> After three months of treatment, differences in ALSFRS-R scores between patients on the therapeutic intervention and those who remained inactive became significant. Although ALSFRS-R scores decreased in both groups, indicating all patients were gradually losing their ability to perform certain tasks, this functional decline was more severe in those who were not engaging in physical exercise.
+
 ### [2019 - The Role of Exercise as a Non-pharmacological Therapeutic Approach for Amyotrophic Lateral Sclerosis: Beneficial or Detrimental?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6652799/)  
 <a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer" href="./als_role_of_exercise.pdf">Download PDF</a>  
 > Although previous evidence suggests a potential relationship
